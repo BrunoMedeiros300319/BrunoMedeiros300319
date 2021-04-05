@@ -39,7 +39,7 @@
 <br />
 <br />
 
-<img align="left" alt="Bruno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
+<img align="left" alt="Bruno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrunoMedeiros300319&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/bruno-medeiros-75305a107/
 [instagram]: https://www.instagram.com/brunomedeirosdatascience/
