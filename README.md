@@ -5,7 +5,8 @@
 - 💻 Atualmente, trabalho como Instrutor de Ciência de Dados
 - 💻 Sou Consultor de Dados, faço projetos Freelancers
 - 💻 Sou Coordenador e Professor de Desenvolvimento de Sistemas pelo Governo de Pernambuco
-- 💻 Sou Analista de Suporte/Negócio em empresa que atua com conselhos regionais
+- 💻 Sou Analista de Sistemas voltados para Dados na MV SISTEMAS
+- 📊 Sou professor de Análise de Dados no PET ( Projeto de Extensão Tecnológica ) da FACEPE pelo Governo de Pernambuco
 - 📈 Estou constantemente aprendendo e melhorando minhas habilidades 
 - 📊 Pretendo colaborar com outros cientistas de dados e desenvolvedores
 - 💻 Tenho uma conta no Instagram, onde ajudo os iniciantes em Data Science e mostro um pouco do meu trabalho de consultoria
